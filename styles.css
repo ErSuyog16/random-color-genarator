@@ -1,0 +1,45 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+
+}
+h2{
+  display: inline;
+}
+.header{
+
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+}
+.h2{
+padding-right: 700px;
+padding-left: 15%;
+}
+.middle{
+text-align:center;
+background-color: black;
+color: white;
+position:relative;
+top:450px;
+left: 480px;
+top: 165px;
+width: 500px;
+height: 60px;
+border-radius: 20px;
+
+
+}
+/*margin-top: 220px;
+
+margin-left: 450px;
+
+
+padding: 10px 0;*/
+button{
+position: absolute;
+top:400px;
+left: 42%;
+width: 150px;
+
+}
